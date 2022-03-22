@@ -36326,7 +36326,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 878px;
+  min-height: 742px;
 }
 
 .u-header .u-image-1 {
@@ -36407,15 +36407,17 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-4 {
   width: 32px;
   height: 32px;
-  margin: -32px auto 0 157px;
-}
-
-.u-header .u-text-9 {
-  font-family: "Space Grotesk";
-  font-size: 3rem;
-  margin: 280px 875px 0 0;
+  margin: -32px auto 60px 157px;
 }
 @media (max-width: 1399px) {
+  .u-header .u-sheet-1 {
+    min-height: 580px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 105px;
+  }
+
   .u-header .u-text-4 {
     margin-top: -6px;
   }
@@ -36435,7 +36437,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: 105px;
     margin-right: 15px;
   }
 
@@ -36514,11 +36515,6 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 32px;
     margin-left: 109px;
   }
-
-  .u-header .u-text-9 {
-    width: auto;
-    margin: 252px 703px 60px -28px;
-  }
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
@@ -36595,16 +36591,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: 32px;
     margin-left: 395px;
   }
-
-  .u-header .u-text-9 {
-    margin-top: 753px;
-    margin-right: 415px;
-    margin-left: 54px;
-  }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 1900px;
+    min-height: 927px;
   }
 
   .u-header .u-image-1 {
@@ -36680,16 +36670,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 238px;
     margin-left: auto;
   }
-
-  .u-header .u-text-9 {
-    margin-top: 180px;
-    margin-right: 263px;
-    margin-left: 27px;
-  }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 2203px;
+    min-height: 743px;
   }
 
   .u-header .u-image-1 {
@@ -36765,12 +36749,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-4 {
     margin-top: 22px;
     margin-right: 146px;
-  }
-
-  .u-header .u-text-9 {
-    margin-top: 214px;
-    margin-right: 89px;
-    margin-left: 0;
   }
 }
 .u-footer .u-sheet-1 {
